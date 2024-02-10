@@ -1,5 +1,5 @@
-# 🇮🇩 AGUS RAWING 🇮🇩ORDER NUMBER D
-# WELCOME TO AUTOSCRIPT SSH
+# OTAK PUREL
+# WELCOME TO AUTOSCRIPT SSH BY SABDOPALON
 # support debian 10 & 11
 # support ubuntu 20 & 18
 # command install
